@@ -7,4 +7,4 @@ Left paddle controlled by W and S
 
 Right paddle controlled by Up and Down
 
-Left player can fire projectile with Space nad right player with Shift
+Left player can fire projectile with Space and right player can with Shift
